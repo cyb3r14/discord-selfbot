@@ -1,0 +1,15 @@
+{
+    "token": "",
+    "prefix": "",
+    "rpcEnabled": false,
+    "rpc": {
+      "id": "",
+      "name": "",
+      "desc": "",
+      "img_url": "",
+      "button_text": "",
+      "button_url": "", 
+      "url": ""
+    } 
+  }
+  
